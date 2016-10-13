@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <h1>{{title}}</h1>
+    <h2>{{subTitle}}</h2>
+
+
+    <a href="home">Home</a>
+    <a href="myaccount">Profile</a>
+    <a href="signup">Sign Up</a>
+
+
+
+  </head>
+  <body>
+
+    <p>Check out these costumes, swipe left or right</p>
+
+  </body>
+</html>
